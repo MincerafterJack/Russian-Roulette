@@ -1,0 +1,11 @@
+V0.3-t
+
++ Added the "Exit" choice after the game overs.
+
+~ Changed text to make it more readable.
+
+~ Formated the code to make it more readable.
+
+- Removed the residual retry code after the game overs.
+
+= Fixed a bug caused the game automaticly closes itself when the game overs.
